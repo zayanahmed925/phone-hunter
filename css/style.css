@@ -1,10 +1,12 @@
-.sensors span {
-    font-size: 14px;
-    margin: 2px;
-    background: #efefef;
-    padding: 2px 10px;
-    display: inline-block;
+/* project Title */
+#title{
+    color: rgb(33, 13, 78);
 }
-/* #error{
-    display: none;
-} */
+/* phone details */
+#details-image{
+ width: 200px;
+}
+/* All Sensor */
+li{
+    font-weight:600;
+}
